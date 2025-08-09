@@ -65,7 +65,7 @@ With **syntax-aware editing**, **inline execution**, and **persistent sessions**
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-repo/terminal-coding-extension.git
+git clone https://github.com/Aaryanbanskota/code-termina.git
 
 # 2️⃣ Install dependencies
 cd terminal-coding-extension && npm install
