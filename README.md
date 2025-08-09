@@ -50,7 +50,7 @@ With **syntax-aware editing**, **inline execution**, and **persistent sessions**
 ## 🖼 Preview
 
 <p align="center">
-  <img src="https://i.ibb.co/kM7v9B2/terminal-preview-dark.png" alt="Terminal Preview" width="850">
+  <img src="https://i.postimg.cc/wMLM3PnQ/terminal-preview.jpg" alt="Terminal Preview" width="850">
 </p>
 
 ---
