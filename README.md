@@ -101,4 +101,4 @@ npm run lint && npm test
 🌐 Community Discord coming soon
 
 📜 License
-MIT License © Your Name
+MIT License © Aaryan-Banskota
